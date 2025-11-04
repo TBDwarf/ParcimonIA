@@ -8,6 +8,18 @@
 
 ---
 
+## 🎭 Pourquoi "ParcimonIA" ?
+
+Le nom **ParcimonIA** est un jeu de mots qui fusionne deux concepts clés du projet :
+
+- **Parcimonie** : qualité de celui qui dépense avec mesure, économie et sagesse.
+
+- **IA** : Intelligence Artificielle, cœur technologique du projet.
+
+**ParcimonIA** incarne ainsi une *IA parcimonieuse* : un système qui optimise intelligemment les ressources en ne mobilisant que la puissance de calcul strictement nécessaire pour chaque tâche.
+
+---
+
 ## 📋 Table des matières
 
 - [Présentation](#-présentation)
@@ -31,6 +43,10 @@ Un nano‑modèle évalue la complexité de chaque requête, puis le routeur `gp
 ### Objectif
 
 **Réduire votre facture d'IA** tout en maintenant la qualité perçue par l'utilisateur, avec observabilité complète et mécanismes de fallback.
+
+### Compatibilité
+
+> **Note :** Le code est actuellement conçu pour être utilisé **nativement avec OpenAI** (GPT-5, GPT-5-mini, GPT-5-nano). Cependant, avec quelques modifications mineures du code (notamment au niveau des endpoints API et des paramètres de requête), ParcimonIA peut parfaitement fonctionner avec **d'autres fournisseurs de modèles** comme Anthropic Claude, Mistral AI, ou tout autre LLM compatible avec une API REST.
 
 ---
 
