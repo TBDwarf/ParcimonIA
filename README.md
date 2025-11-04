@@ -3,7 +3,6 @@
 > Router OpenWebUI intelligent pour optimiser les coûts d'IA en choisissant automatiquement le meilleur modèle LLM
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TBDwarf/ParcimonIA/pulls)
 [![Made in France](https://img.shields.io/badge/Made%20in-France-blue)](https://fr.wikipedia.org/wiki/France)
 
 ---
@@ -243,7 +242,7 @@ Voir le fichier [LICENSE](LICENSE) à la racine du dépôt pour le texte complet
 
 Merci à la communauté OpenWebUI et à tous les contributeurs qui rendent ce projet possible.
 
-**Contributions bienvenues !** N'hésitez pas à ouvrir une issue ou une PR.
+**Contributions bienvenues !**
 
 ---
 
