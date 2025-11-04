@@ -3,7 +3,7 @@
 > Router OpenWebUI intelligent pour optimiser les coûts d'IA en choisissant automatiquement le meilleur modèle LLM
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache--2.0-blue.svg)](LICENSE)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/yourusername/parcimonia/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/TBDwarf/ParcimonIA/pulls)
 [![Made in France](https://img.shields.io/badge/Made%20in-France-blue)](https://fr.wikipedia.org/wiki/France)
 
 ---
