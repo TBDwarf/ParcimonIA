@@ -7,6 +7,14 @@ et ce projet adhère au [Semantic Versioning](https://semver.org/lang/fr/).
 
 ---
 
+## [1.0.1] - 2025-01-05
+
+### 🔧 Modifié
+
+Augmentation du time-out sur la requete nano de 30 à 300 secondes.
+
+---
+
 ## [1.0.0] - 2025-01-04
 
 ### 🎉 Version initiale
