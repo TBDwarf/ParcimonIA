@@ -42,7 +42,7 @@ Un nano‑modèle évalue la complexité de chaque requête, puis le routeur `gp
 ParcimonIA intercale un "scorer" léger avant chaque appel au modèle principal :
 
 ```
-[Client] → [Scorer 🧮] → [Router 🔀] → [gpt-5-mini | gpt-5] → [Réponse]
+[Client] → [Scorer gpt5-nano 🧮] → [Router 🔀] → [gpt-5-mini | gpt-5] → [Réponse]
 ```
 
 ### Workflow détaillé
