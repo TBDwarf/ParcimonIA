@@ -216,13 +216,8 @@ Le gain principal est de **faire des économies sans effort** sur les tâches si
 
 ## 📄 Licence
 
-**Copyright (c) 2025 TBDwarf - Tommy RENAULT**
-
 Ce projet est distribué sous la **Apache License, Version 2.0**.  
 Voir le fichier [LICENSE](LICENSE) à la racine du dépôt pour le texte complet.
-
-> Merci de conserver cet avis dans vos distributions :  
-> *"ParcimonIA © TBDwarf - Tommy RENAULT — Licence Apache‑2.0."*
 
 ---
 
