@@ -17,7 +17,7 @@ import numpy as np
 # (ex: gpt-5-nano -> gpt-5-mini ou gpt-5 selon score). Objectif : réduire coût
 # tout en maintenant la qualité perçue.
 #
-# Version 1.0
+# Version 1.0.1
 # Copyright (c) 2025 - TBDwarf
 # License: Apache-2.0
 #
