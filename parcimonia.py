@@ -189,7 +189,7 @@ Answer with ONLY: light OR heavy"""
                 f"{self.valves.OPENAI_API_BASE}/chat/completions",
                 headers=headers,
                 json=payload,
-                timeout=30,
+                timeout=300,
             )
 
             if response.status_code != 200:
