@@ -7,18 +7,6 @@
 
 ---
 
-## 🎭 Pourquoi "ParcimonIA" ?
-
-Le nom **ParcimonIA** est un jeu de mots qui fusionne deux concepts clés du projet :
-
-- **Parcimonie** : qualité de celui qui dépense avec mesure, économie et sagesse.
-
-- **IA** : Intelligence Artificielle, cœur technologique du projet.
-
-**ParcimonIA** incarne ainsi une *IA parcimonieuse* : un système qui optimise intelligemment les ressources en ne mobilisant que la puissance de calcul strictement nécessaire pour chaque tâche.
-
----
-
 ## 📋 Table des matières
 
 - [Présentation](#-présentation)
@@ -238,6 +226,16 @@ Voir le fichier [LICENSE](LICENSE) à la racine du dépôt pour le texte complet
 
 ---
 
+## 🎭 Pourquoi "ParcimonIA" ?
+
+Le nom **ParcimonIA** est un jeu de mots qui fusionne deux concepts clés du projet :
+
+- **Parcimonie** : qualité de celui qui dépense avec mesure, économie et sagesse.
+- **IA** : Intelligence Artificielle, cœur technologique du projet.
+
+**ParcimonIA** incarne ainsi une *IA parcimonieuse* : un système qui optimise intelligemment les ressources en ne mobilisant que la puissance de calcul strictement nécessaire pour chaque tâche.
+
+---
 ## 🙏 Remerciements
 
 Merci à la communauté OpenWebUI et à tous les contributeurs qui rendent ce projet possible.
